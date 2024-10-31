@@ -122,7 +122,7 @@ Model performance metrics (MSE and R-squared) will be printed to the console aft
 
 ## Contact
 
-For questions, please contact [Your Name](mailto:your-email@example.com).
+For questions, please contact [yogeswara badepalli](mailto:yogeswar1992.b@gmail.com).
 
 ---
 
