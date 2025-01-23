@@ -6,6 +6,6 @@ This project contain details relating to the following three details:
 2. Developed and tested linear regression model which uses multiple attributes to make predictions.
 3. Actionable recommendations based on the analyses have conducted in this report.
 
-## Tech:
+## Technologies:
 
 Python, Numpy, Pandas, Scikit-learn, Seaborn, Machine learning, Jupyter Notebook.
