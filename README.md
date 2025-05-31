@@ -8,4 +8,4 @@ This project contain details relating to the following three details:
 
 ## Tech:
 
-Python, Numpy, Pandas, Scikit-learn, Seaborn, Machine learning, Jupyter Notebook.
+Python, Numpy, Pandas, Scikit-learn, Seaborn, Matplotlib, Machine learning, Jupyter Notebook.
